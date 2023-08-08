@@ -1,5 +1,5 @@
 #metodos
-
+import datetime
 
 def comprar(cliente):
         while True:
